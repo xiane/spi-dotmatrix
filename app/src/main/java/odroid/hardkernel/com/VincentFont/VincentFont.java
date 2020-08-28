@@ -1,7 +1,7 @@
-package odroid.hardkernel.com.spi_matrix;
+package odroid.hardkernel.com.VincentFont;
 
-public class font {
-    final static byte VINCENT_FONT[][]=
+public class VincentFont {
+    public final static byte[][] font =
 
     {
         {
