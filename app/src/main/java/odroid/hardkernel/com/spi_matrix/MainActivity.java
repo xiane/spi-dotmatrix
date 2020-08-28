@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                     int sequence = 0;
 
                     dotMatrix.setFirstDelay(1000);
-                    dotMatrix.setScrollSpeed(10);
+                    dotMatrix.setScrollSpeed(20);
                     while (true) {
                         String displayChars;
                         if (sequence++ % 2 == 0)
